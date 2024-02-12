@@ -1,0 +1,14 @@
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.AssemblyInfoInputs.cache
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.AssemblyInfo.cs
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.csproj.CoreCompileInputs.cache
+C:\Users\bryra\source\repos\C#\Animalerie\bin\Debug\net6.0\Animalerie.exe
+C:\Users\bryra\source\repos\C#\Animalerie\bin\Debug\net6.0\Animalerie.deps.json
+C:\Users\bryra\source\repos\C#\Animalerie\bin\Debug\net6.0\Animalerie.runtimeconfig.json
+C:\Users\bryra\source\repos\C#\Animalerie\bin\Debug\net6.0\Animalerie.dll
+C:\Users\bryra\source\repos\C#\Animalerie\bin\Debug\net6.0\Animalerie.pdb
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.dll
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\refint\Animalerie.dll
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.pdb
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\Animalerie.genruntimeconfig.cache
+C:\Users\bryra\source\repos\C#\Animalerie\obj\Debug\net6.0\ref\Animalerie.dll
